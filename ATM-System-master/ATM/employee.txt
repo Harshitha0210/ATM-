@@ -1,0 +1,6 @@
+10 khaled 9876
+20 mohamad 5678
+30 salwa 1000
+40 ali 6070
+50 manal 5050
+

@@ -1,0 +1,65 @@
+ID	Username	Type of operation	amount	   Balance	Time
+1	ahmed		Withdraw		150	   4440		Sat May 05 23:45:26 2018
+
+2	doha		Deposited		160	   3879		Sat May 05 23:46:04 2018
+
+4	haidy		 transfer 		150	   8575		Sat May 05 23:47:07 2018
+
+5	yasmen		Inquiry   		9517	   9517		Sat May 05 23:47:25 2018
+
+6	maryhan		donation		150	   3908		Sat May 05 23:47:43 2018
+
+1	ahmed		pay telephone bill	796	   3794		Sun May 06 20:10:47 2018
+
+2	doha		donation		800	   3079		Sun May 06 20:11:04 2018
+
+5	yasmen		 transfer 		500	   9017		Sun May 06 20:11:31 2018
+
+1	ahmed		Withdraw		150	   3644		Sun May 06 20:32:18 2018
+
+1	ahmed		Withdraw		150	   3494		Sun May 06 20:46:12 2018
+
+2	doha		pay electricity bill		789	   2790		Sun May 06 20:46:36 2018
+
+1	ahmed		Withdraw		5	   3489		Sun May 06 21:07:35 2018
+
+1	ahmed		Deposited		150	   3639		Sun May 06 20:11:00 2018
+
+1	ahmed		Withdraw		11	   3628		Sun May 06 20:19:57 2018
+
+2	doha		Deposited		3	   2793		Sun May 06 20:20:17 2018
+
+4	haidy		pay electricity bill		795	   7780		Sun May 06 20:20:54 2018
+
+1	ahmed		Withdraw		150	   3478		Sun May 06 20:24:45 2018
+
+5	yasmen		Deposited		150	   9167		Sun May 06 20:25:04 2018
+
+4	haidy		pay telephone bill		789	   6991		Sun May 06 20:25:45 2018
+
+1	ahmed		Withdraw		12	   3466		Sun May 06 20:33:31 2018
+
+1	ahmed		Inquiry   		3466	   3466		Sun May 06 20:35:02 2018
+
+1	ahmed		Deposited		120	   3586		Sun May 06 20:47:19 2018
+
+1	ahmed		Withdraw		150	   3436		Sun May 06 20:48:22 2018
+
+1	ahmed		Inquiry   		3436	   3436		Sun May 06 20:50:07 2018
+
+1	ahmed		Withdraw		12	   3424		Sun May 06 20:57:42 2018
+
+1	ahmed		Withdraw		150	   3274		Sun May 06 21:45:22 2018
+
+1	ahmed		Withdraw		150	   3124		Sun May 06 21:40:46 2018
+
+1	ahmed		Withdraw		1	   3123		Sun May 06 21:03:09 2018
+
+1	ahmed		Withdraw		150	   4850		Sun May 06 21:32:11 2018
+
+1	ahmed		Deposited		150	   5000		Sun May 06 21:32:32 2018
+
+1	ahmed		Withdraw		200	   4800		Mon May  7 11:05:11 2018
+
+1	ahmed		Withdraw		500	   4300		Mon May  7 11:46:13 2018
+
